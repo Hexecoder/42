@@ -3,7 +3,7 @@
 
 
 # C00
-An Introduction into C Programming. 
+An Introduction into C Programming...
 
 These projects are made to help you familiarise with several core concepts:
 
